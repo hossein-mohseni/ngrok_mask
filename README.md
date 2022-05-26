@@ -1,6 +1,6 @@
 <div align="center"><a href="https://t.me/x_oBad_boyo_x"><img title="Telegram" src="https://s21.picofile.com/file/8444621518/tel.png" ></a>  <a href="https://instagram.com/_h0ssein._m"><img title="Instagram" src="https://s24.picofile.com/file/8450419542/insta.png" ></div>
 <br/>
-<div align="center"><img title="" src="https://s24.picofile.com/file/8450419768/image_processing20200825_20117_130znob.png" width="50%"></div>
+<div align="center"><img title="" src="https://s24.picofile.com/file/8450419768/image_processing20200825_20117_130znob.png" width="80%"></div>
 
 # 🎭 Ngrok Mask 👹
 make a mask for you'r ngrok links!!
