@@ -14,13 +14,10 @@ git clone https://github.com/hossein-mohseni/ngrok_mask
 cd ngrok_mask
 ```
 ```
-sudo chmod +x *
+python3.9 -m pip install -r requirements.txt
 ```
 ```
-sudo python3.9 -m pip install -r requirements.txt
-```
-```
-sudo python3.9 ngrok_Mask.py
+python3.9 ngrok_Mask.py
 ```
 
 ### 😌 it's super Eeasy to use!
